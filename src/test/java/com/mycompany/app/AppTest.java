@@ -1,4 +1,6 @@
 package com.mycompany.app;
+import com.mycompany.app.App;
+
 
 import org.junit.jupiter.api.Test;
 
